@@ -1,6 +1,2 @@
-1- Otter
-2- Zebra
-3- Croc
-4- Tiger
-5- Rhino
-6- Leopard
+favourite Animal
+- Leopard
