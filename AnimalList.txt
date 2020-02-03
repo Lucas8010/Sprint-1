@@ -1,2 +1,9 @@
-favourite Animal
-- Leopard
+red
+white
+black
+blue
+yellow
+green
+purple
+indigo
+honeydew
